@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355120112253",
+    "project_id": "rhbyouth",
+    "storage_bucket": "rhbyouth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355120112253:android:dcb7e564fba67411a0c714",
+        "android_client_info": {
+          "package_name": "com.example.rhb_youth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355120112253-hm4tm0q4lg5vgobdirjgfn17tnkob8sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKzS9OpSAmz67fwdfOsf3F1TE7fc-9WUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355120112253-hm4tm0q4lg5vgobdirjgfn17tnkob8sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
